@@ -3,6 +3,7 @@ title: '关于我'
 date: 2024-07-01
 layout: 'posts'
 hideInList: false
+isTop: true
 ---
 
 > 欢迎来到我的博客
