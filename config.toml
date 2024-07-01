@@ -1,7 +1,7 @@
-baseURL = 'https://lillianwho.com/'
+baseURL = 'https://XianYu.com/'
 languageCode = 'zh-CN'
 timeZone = 'Asia/Shanghai'
-title = 'Lillian Who'
+title = 'XianYu'
 
 # 主题
 theme  =  "hello-friend"
@@ -18,16 +18,16 @@ rssLimit = 5
 
 [menu]
   [[menu.main]]
-  name="读书"
-  url="/posts/reading/"
+  name="学习"
+  url="/posts/learning/"
   weight="1"
   [[menu.main]]
-  name="Obsidian"
-  url="/posts/obsidian/"
+  name="杂记"
+  url="/posts/杂记/"
   weight="2"
   [[menu.main]]
-  name="闲聊"
-  url="/posts/chat/"
+  name="散记"
+  url="/posts/散记/"
   weight="3"
   [[menu.main]]
   name="归档"
@@ -82,6 +82,6 @@ rssLimit = 5
   baseName = "atom"
 
 [params.twikoo]
-	enable = true
+	enable = false
   visitor = true
   
