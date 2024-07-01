@@ -17,17 +17,17 @@ rssLimit = 5
   tags = "/tags/:slug/"
 
 [menu]
-  [[menu.main]]
+   [[menu.main]]
   name="学习"
   url="/posts/learning/"
   weight="1"
   [[menu.main]]
-  name="杂记"
-  url="/posts/杂记/"
+  name="小说或杂文"
+  url="/posts/小说或杂文/"
   weight="2"
   [[menu.main]]
-  name="散记"
-  url="/posts/散记/"
+  name="记录者"
+  url="/posts/记录者/"
   weight="3"
   [[menu.main]]
   name="归档"
@@ -41,7 +41,6 @@ rssLimit = 5
   name="🔍"
   url="/search/"
   weight="6"
-
 
 
 [params]
