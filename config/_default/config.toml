@@ -1,5 +1,9 @@
 # Change baseurl before deploy
+<<<<<<< HEAD
 baseurl = "https://aphia-xianyu.github.io\"
+=======
+baseurl = "https://aphia-xianyu.github.io/"
+>>>>>>> 96356ad0674bc581be6ca28a698f333d335ee5c1
 languageCode = "zh-cn"
 paginate = 5
 title = "Hugo Theme Stack Starter"
