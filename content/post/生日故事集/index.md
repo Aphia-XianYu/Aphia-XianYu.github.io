@@ -3,6 +3,7 @@ title: 生日故事集
 description: 和生日相关的碎语
 slug: 生日故事集
 date: 2023-12-12 00:00:00+0000
+image: pic.jpg
 categories:
     - Writing
 tags:
