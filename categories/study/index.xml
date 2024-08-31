@@ -2,17 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Study on XianYu</title>
-        <link>https://aphia-xianyu.github.io/categories/study/</link>
+        <link>http://localhost:1313/categories/study/</link>
         <description>Recent content in Study on XianYu</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Thu, 27 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://aphia-xianyu.github.io/categories/study/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 24 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/study/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Computational Thinking</title>
+        <link>http://localhost:1313/p/computationalthinking/</link>
+        <pubDate>Sat, 24 Aug 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/computationalthinking/</guid>
+        <description>&lt;img src="http://localhost:1313/p/computationalthinking/image.png" alt="Featured image of post Computational Thinking" /&gt;&lt;p&gt;课程网址：&lt;a class=&#34;link&#34; href=&#34;https://computationalthinking.mit.edu/Fall24/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Fall 24&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;一门由Alan Edelman, David P. Sanders 和 Charles E. Leiserson三位教授开设的计算思维入门课，内容涵盖了图像处理、社会科学与数据科学、气候学建模三个主题。在这三个主题的带领下来指引学生理解算法、数据解算法、数学建模、数据分析、交互设计、图例展示，让学生体验计算与科学的美妙结合，很适合作为一门数值分析或者数据分析处理的入门课。&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;可以看到Alan教授家超级可爱的狗&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;Lectures的Notes非常棒，是由Julia的Pluto库生成的交互式文本（类似于Jupyter Notebook），不仅外观赏心悦目，而且内容丰富有趣，Alan教授一直希望我们能够&amp;quot;play fun with it&amp;quot;。课程作业也是在Pluto里完成的，作业内容类似于Lab，基本上是按照课内所学知识完成的，后面会有一个传染病模型的建模，很有趣。&lt;/p&gt;
+&lt;p&gt;lectures的videos也附在课程网址里，前两个topics的视频可以在B站上找到，后一个topic的视频可能要到油管上看，videos一般是教授讲解并操作notes，我后面基本上只看notes没有看videos了.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>大二课程总结</title>
-        <link>https://aphia-xianyu.github.io/p/%E5%A4%A7%E4%BA%8C%E8%AF%BE%E7%A8%8B%E6%80%BB%E7%BB%93/</link>
+        <link>http://localhost:1313/p/%E5%A4%A7%E4%BA%8C%E8%AF%BE%E7%A8%8B%E6%80%BB%E7%BB%93/</link>
         <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://aphia-xianyu.github.io/p/%E5%A4%A7%E4%BA%8C%E8%AF%BE%E7%A8%8B%E6%80%BB%E7%BB%93/</guid>
-        <description>&lt;img src="https://aphia-xianyu.github.io/p/%E5%A4%A7%E4%BA%8C%E8%AF%BE%E7%A8%8B%E6%80%BB%E7%BB%93/image.jpg" alt="Featured image of post 大二课程总结" /&gt;&lt;p&gt;by 先於.&lt;/p&gt;
+        <guid>http://localhost:1313/p/%E5%A4%A7%E4%BA%8C%E8%AF%BE%E7%A8%8B%E6%80%BB%E7%BB%93/</guid>
+        <description>&lt;img src="http://localhost:1313/p/%E5%A4%A7%E4%BA%8C%E8%AF%BE%E7%A8%8B%E6%80%BB%E7%BB%93/image.jpg" alt="Featured image of post 大二课程总结" /&gt;&lt;p&gt;by 先於.&lt;/p&gt;
 &lt;p&gt;&lt;font size = 5&gt;写在前面&lt;/font&gt;：&lt;/p&gt;
 &lt;p&gt;这篇写出来估计🐎就掉光了吧（本来就已经掉🐎了www）&lt;/p&gt;
 &lt;p&gt;本来不想写的，因为感觉没啥可以写（主要是自己太菜了），但是看到一个朋友写了类似的就又莫名想写，前面是一些课程的感受和经验分享，后面是对强基大二生活的一些总结（可能会比较负面哈哈哈哈）&lt;/p&gt;

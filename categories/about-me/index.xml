@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>About Me on XianYu</title>
-        <link>https://aphia-xianyu.github.io/categories/about-me/</link>
+        <link>http://localhost:1313/categories/about-me/</link>
         <description>Recent content in About Me on XianYu</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Sat, 03 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://aphia-xianyu.github.io/categories/about-me/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 03 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/about-me/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>关于我</title>
-        <link>https://aphia-xianyu.github.io/p/about-me/</link>
+        <link>http://localhost:1313/p/about-me/</link>
         <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://aphia-xianyu.github.io/p/about-me/</guid>
-        <description>&lt;img src="https://aphia-xianyu.github.io/p/about-me/cover.jpg" alt="Featured image of post 关于我" /&gt;&lt;blockquote&gt;
+        <guid>http://localhost:1313/p/about-me/</guid>
+        <description>&lt;img src="http://localhost:1313/p/about-me/cover.jpg" alt="Featured image of post 关于我" /&gt;&lt;blockquote&gt;
 &lt;p&gt;欢迎来到我的博客&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id=&#34;-关于本站&#34;&gt;🏠 关于本站
