@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Writing on XianYu</title>
-        <link>http://localhost:1313/categories/writing/</link>
+        <link>https://aphia-xianyu.github.io/categories/writing/</link>
         <description>Recent content in Writing on XianYu</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Tue, 23 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/writing/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 23 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://aphia-xianyu.github.io/categories/writing/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>诀别</title>
-        <link>http://localhost:1313/p/%E8%AF%80%E5%88%AB/</link>
+        <link>https://aphia-xianyu.github.io/p/%E8%AF%80%E5%88%AB/</link>
         <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/%E8%AF%80%E5%88%AB/</guid>
+        <guid>https://aphia-xianyu.github.io/p/%E8%AF%80%E5%88%AB/</guid>
         <description>&lt;h2 id=&#34;写在前面&#34;&gt;写在前面：
 &lt;/h2&gt;&lt;p&gt;写这篇的初心是想跟过去告个别，所以诀别的是我的过去。因为一直被昨日的事情困扰，好几次很认真的告诉自己不要沉溺在那段日子里，所以答应自己写完这篇就要彻彻底底斩断过去。&lt;/p&gt;
 &lt;p&gt;但是在写完这篇之前发生了一些事情，我恍然发现，脱离昨日原来只要一句道歉、几次交流，尽管其中还是付出了很多的代价。&lt;/p&gt;
@@ -241,10 +241,10 @@
         </item>
         <item>
         <title>新年故事集</title>
-        <link>http://localhost:1313/p/%E6%96%B0%E5%B9%B4%E6%95%85%E4%BA%8B%E9%9B%86/</link>
+        <link>https://aphia-xianyu.github.io/p/%E6%96%B0%E5%B9%B4%E6%95%85%E4%BA%8B%E9%9B%86/</link>
         <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/%E6%96%B0%E5%B9%B4%E6%95%85%E4%BA%8B%E9%9B%86/</guid>
+        <guid>https://aphia-xianyu.github.io/p/%E6%96%B0%E5%B9%B4%E6%95%85%E4%BA%8B%E9%9B%86/</guid>
         <description>&lt;p&gt;‌‌‌‌　　2022年的十二月，在疫情的阴云下，我成了为数不多的依旧留在学校的学生，整日往返于寝室、食堂、教学楼，听着令人恹恹欲睡的网课，过着不知所云的生活。我本计划是在12月31日那一天结课后返乡，在厦门开始自己新的一年，但是我突然患上了气胸，于是不得不住进了医院，在病榻上度过自己的新年。&lt;/p&gt;
 &lt;p&gt;‌‌‌‌　　我当时郑重其事地许下花团锦簇的一年。我第一年来到浙大，脱离了高中自律单调的生活，似乎迎来了所谓“自由”的气息。但我依旧留有高中的影子：早起、坐在教室前排，闲暇时总是在自习，我依然诚挚地保持着高中原有的模样。于是尽管有着些许有模有样的日子，那段时光更多的时候却依旧显得是乏味无趣的。我极度讨厌乃至厌恶一成不变的生活，于是我总期盼并尝试着做出一些改变，在新年之际许下这个承诺便希望亦或期待自己的生活会随冬天的散去迎来春日的生机、夏日的热情。&lt;/p&gt;
 &lt;p&gt;‌‌‌‌　　于是，在三四月份，我半推半就地做了很多事。我参加了人生第一次的路演，过去的我应当是从未想象过如此近距离接触那些只存在荧幕上的人物；和一群很好的学长学姐们吃了一次毕至居，吵吵闹闹的玩乐中听了很多趣闻；去了一趟绍兴、苏州和南京，散心亦或游历于那些只在传闻而却从未踏足过的他乡。我就像一个稚嫩的园丁笨拙而又满心欢喜地装点着名为生活的花园，精心雕刻着那些给我带来无限欢愉的物与事，在那个春意盎然的时岁里收获着从未想象过的快乐。&lt;/p&gt;
@@ -260,11 +260,11 @@
         </item>
         <item>
         <title>生日故事集</title>
-        <link>http://localhost:1313/p/%E7%94%9F%E6%97%A5%E6%95%85%E4%BA%8B%E9%9B%86/</link>
+        <link>https://aphia-xianyu.github.io/p/%E7%94%9F%E6%97%A5%E6%95%85%E4%BA%8B%E9%9B%86/</link>
         <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/%E7%94%9F%E6%97%A5%E6%95%85%E4%BA%8B%E9%9B%86/</guid>
-        <description>&lt;img src="http://localhost:1313/p/%E7%94%9F%E6%97%A5%E6%95%85%E4%BA%8B%E9%9B%86/pic.jpg" alt="Featured image of post 生日故事集" /&gt;&lt;blockquote&gt;
+        <guid>https://aphia-xianyu.github.io/p/%E7%94%9F%E6%97%A5%E6%95%85%E4%BA%8B%E9%9B%86/</guid>
+        <description>&lt;img src="https://aphia-xianyu.github.io/p/%E7%94%9F%E6%97%A5%E6%95%85%E4%BA%8B%E9%9B%86/pic.jpg" alt="Featured image of post 生日故事集" /&gt;&lt;blockquote&gt;
 &lt;p&gt;献给自己的生日礼物&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;‌‌‌‌　　《萌芽》里很喜欢林砚秋的文字，我第一次记住这个名字是读到她的《生日故事集》，那种细腻又带着几分闲愁的文字带给我强烈的印象。高考之后，当我再去重读《萌芽》的时候，我发现我很喜欢的很多文章都出自于她的笔下。于是我拙劣地模仿着她的文字，学习其记录自己的生日，并将其作为送给自己的一份礼物。&lt;/p&gt;
@@ -279,10 +279,10 @@
         </item>
         <item>
         <title>为了叙述而写作</title>
-        <link>http://localhost:1313/p/%E4%B8%BA%E4%BA%86%E5%8F%99%E8%BF%B0%E8%80%8C%E5%86%99%E4%BD%9C/</link>
+        <link>https://aphia-xianyu.github.io/p/%E4%B8%BA%E4%BA%86%E5%8F%99%E8%BF%B0%E8%80%8C%E5%86%99%E4%BD%9C/</link>
         <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/%E4%B8%BA%E4%BA%86%E5%8F%99%E8%BF%B0%E8%80%8C%E5%86%99%E4%BD%9C/</guid>
+        <guid>https://aphia-xianyu.github.io/p/%E4%B8%BA%E4%BA%86%E5%8F%99%E8%BF%B0%E8%80%8C%E5%86%99%E4%BD%9C/</guid>
         <description>&lt;p&gt;‌‌‌‌　　大抵是在初一，还是年少轻狂而懵懂无知的时候，自以为是地看了几篇七堇年的文章，便开始想着要写一点东西。郑重其事地找了一个本子，可惜连序都还未写完便放弃了自己的创作。&lt;/p&gt;
 &lt;p&gt;‌‌‌‌　　但是对想写一点东西的渴望是从未消散的，我曾经在一个蝉鸣连连的夏日，坐在书店里面，写了一篇短短的小说。我把它称为彻彻底底的失败之作，因为我看不出其中所想要表达的一切。我刻画了一个不存在于现实中的人。一般而言，小说中的人物要么以生活中的人物为原型，那么是作者所构想出来的“理想人格”，但他不是二者，他无法存在于任何世界，我鄙夷地看着他。&lt;/p&gt;
 &lt;p&gt;‌‌‌‌　　而后，我又在那个书店写了无数的内容。那个书店是我的精神乐园。在无数个烈日炎炎的下午，我都会窜到那个书店，拿上几本书，看着饮料上的冷凝水缓缓打湿桌面，然后写着自己的作业或者继续写作。但我从未完成过一篇作品，我写了无数个开头，无数的中间，但是从未完整写完过一个结尾。我依稀记得当时写过一篇自以为不错的小说，那是从一首歌和歌的评论区里所收获的灵感，然后用纸和笔记录下来，但是到了转折点时我却写不下去了，我缺少写作的动力，然后那些记录着文字的纸也不知被我丢到哪一个角落，继续做着未完成的梦。&lt;/p&gt;

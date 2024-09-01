@@ -2,22 +2,103 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>网课 on XianYu</title>
-        <link>http://localhost:1313/tags/%E7%BD%91%E8%AF%BE/</link>
+        <link>https://aphia-xianyu.github.io/tags/%E7%BD%91%E8%AF%BE/</link>
         <description>Recent content in 网课 on XianYu</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Sat, 24 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E7%BD%91%E8%AF%BE/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Computational Thinking</title>
-        <link>http://localhost:1313/p/computationalthinking/</link>
+        <lastBuildDate>Sat, 24 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://aphia-xianyu.github.io/tags/%E7%BD%91%E8%AF%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>24暑期网课学习记录</title>
+        <link>https://aphia-xianyu.github.io/p/%E7%BD%91%E8%AF%BE%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/</link>
         <pubDate>Sat, 24 Aug 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/computationalthinking/</guid>
-        <description>&lt;img src="http://localhost:1313/p/computationalthinking/image.png" alt="Featured image of post Computational Thinking" /&gt;&lt;p&gt;课程网址：&lt;a class=&#34;link&#34; href=&#34;https://computationalthinking.mit.edu/Fall24/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Fall 24&lt;/a&gt;&lt;/p&gt;
+        <guid>https://aphia-xianyu.github.io/p/%E7%BD%91%E8%AF%BE%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/</guid>
+        <description>&lt;p&gt;&lt;del&gt;大二暑假是弯道超车的好时候&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;我不是一个太能闲的住的人，所以总想着给自己找点事情做。所以就会想着，为什么不学一点自己喜欢的东西的呢？这些东西可能对我以后的学习和生活没有太多帮助，或者说不需要如此系统性的学习，但是学这些东西这件事本身就给我带来了很多乐趣，于我而言，那就足够了。&lt;/p&gt;
+&lt;p&gt;去年学了很多C++相关的知识，今年本想强化一下的，奈何没有找到合适的课程。今年的重点是数据与机器学习，其实很多是我在平时学习时随手点开的课程，觉得很有趣，但是没有在课余时间学完，最后都囤到了暑假。&lt;/p&gt;
+&lt;p&gt;自学是磨人的，你没有ddl和GPA的压力，所以学的会很随性，学的会很浮躁。所以我在学完一遍后都会再过一遍，找一些补充资料。&lt;/p&gt;
+&lt;p&gt;我坚信三分钟热度有三分钟收获。哪怕你只是知道这件事是什么，也是足够的。你所要做的，只是找到合适自己的自学办法，然后认真学习并坚持下去。&lt;/p&gt;
+&lt;p&gt;感谢csdiy，让我知道有这么多有趣的课程。感谢设计这些课程并将其开源的老师、学校以及各种学习者，让我有机会接触世界上各种精彩的课程。我不会去批判我本科所学的课程，因为我还是学到很多东西，但我知道与这些课程相比，我们仍有一段路要走。&lt;/p&gt;
+&lt;p&gt;愿我们在学习路上有所收获，所念皆得。&lt;/p&gt;
+&lt;h2 id=&#34;ucs-cs70-discrete-math-and-probability-theory&#34;&gt;UCS CS70 discrete Math and probability theory
+&lt;/h2&gt;&lt;p&gt;课程网址：&lt;a class=&#34;link&#34; href=&#34;http://www.eecs70.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;CS70&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;伯克利的离散数学入门课程。内容包括逻辑证明，基础数论，图论，多项式，概率论和随机过程（主要是马克洛夫链）。课程内容丰富且生动形象，对于一门入门课而言深度和广度都是足够的。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;具体的理论与算法的对应关系列举如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;逻辑证明：稳定匹配算法&lt;/li&gt;
+&lt;li&gt;图论：网络拓扑设计&lt;/li&gt;
+&lt;li&gt;基础数论：RSA 算法&lt;/li&gt;
+&lt;li&gt;多项式环：纠错码设计&lt;/li&gt;
+&lt;li&gt;概率论：哈希表设计、负载均衡等等&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;(源自csdiy的介绍)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;课程的Notes写的非常棒，第一次感受到读数学相关的资料是一件很快乐的事情，比大多教科书写的好多了，感觉自学把notes看懂就行，里面的公式建议自己推导一下（尤其是数论和图论那一部分）。&lt;/p&gt;
+&lt;p&gt;每周有对应的Homework和Discussion，隔一两周会公布答案，作业偏难但是一定要好好做作业！&lt;/p&gt;
+&lt;h2 id=&#34;mit-18s191-computational-thinking&#34;&gt;MIT 18.S191 Computational Thinking
+&lt;/h2&gt;&lt;p&gt;课程网址：&lt;a class=&#34;link&#34; href=&#34;https://computationalthinking.mit.edu/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Computational Thinking&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;一门由Alan Edelman, David P. Sanders 和 Charles E. Leiserson三位教授开设的计算思维入门课，内容涵盖了图像处理、社会科学与数据科学、气候学建模三个主题。在这三个主题的带领下来指引学生理解算法、数据解算法、数学建模、数据分析、交互设计、图例展示，让学生体验计算与科学的美妙结合，很适合作为一门数值分析或者数据分析处理的入门课。&lt;/p&gt;
 &lt;p&gt;&lt;del&gt;可以看到Alan教授家超级可爱的狗&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://aphia-xianyu.github.io/p/%E7%BD%91%E8%AF%BE%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/image.png&#34;
+	width=&#34;700&#34;
+	height=&#34;660&#34;
+	srcset=&#34;https://aphia-xianyu.github.io/p/%E7%BD%91%E8%AF%BE%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/image_hu9884914327161839283.png 480w, https://aphia-xianyu.github.io/p/%E7%BD%91%E8%AF%BE%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/image_hu15576745971074881201.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;106&#34;
+		data-flex-basis=&#34;254px&#34;
+	
+&gt;&lt;/p&gt;
 &lt;p&gt;Lectures的Notes非常棒，是由Julia的Pluto库生成的交互式文本（类似于Jupyter Notebook），不仅外观赏心悦目，而且内容丰富有趣，Alan教授一直希望我们能够&amp;quot;play fun with it&amp;quot;。课程作业也是在Pluto里完成的，作业内容类似于Lab，基本上是按照课内所学知识完成的，后面会有一个传染病模型的建模，很有趣。&lt;/p&gt;
 &lt;p&gt;lectures的videos也附在课程网址里，前两个topics的视频可以在B站上找到，后一个topic的视频可能要到油管上看，videos一般是教授讲解并操作notes，我后面基本上只看notes没有看videos了.&lt;/p&gt;
+&lt;p&gt;课程使用的语言是&lt;a class=&#34;link&#34; href=&#34;https://julialang.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Julia&lt;/a&gt;，是由MIT研发的一款科学计算编程软件，按照MIT的说法是希望到达Python一样好写，C语言一样快的效果。个人感觉语法和MATLAB类似，运行速度虽然快但是需要长时间的预编译。&lt;/p&gt;
+&lt;h2 id=&#34;mit-18065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning&#34;&gt;MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning
+&lt;/h2&gt;&lt;p&gt;课程网址：&lt;a class=&#34;link&#34; href=&#34;https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Matrix Methods in Data Analysis, Signal Processing, and Machine Learning&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://aphia-xianyu.github.io/p/%E7%BD%91%E8%AF%BE%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/18.065.jpg&#34;
+	width=&#34;320&#34;
+	height=&#34;240&#34;
+	srcset=&#34;https://aphia-xianyu.github.io/p/%E7%BD%91%E8%AF%BE%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/18.065_hu4181743525290388591.jpg 480w, https://aphia-xianyu.github.io/p/%E7%BD%91%E8%AF%BE%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/18.065_hu17238197345965484708.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;由Gilbert Strang教授主讲的线性代数的内容，算是18.06的拓展，偏在机器学习方面的应用。课程内容从线性代数出发，涵盖概率论和数理统计、优化方法和深度学习，内容很丰富，教授讲述的时候主要用板书，会举例子辅助讲解。但是内容太多，很多东西都是以介绍为主，需要课后查一下资料补充相关知识。&lt;/p&gt;
+&lt;p&gt;有一本教材，内容会比课程上多，但是知识点更加细致。但是和这门课一样，很多内容只是以介绍为主没有太多拓展。所以个人认为不一定需要。&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;个人很多没听懂&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;如果有志于机器学习或者想在线性代数的应用有更多了解的话可以尝试听这门课。&lt;/p&gt;
+&lt;p&gt;感谢Gilbert Strang拯救我的线性代数于水生火热之中。在此祝Gilbert Strang退休快乐，顺心顺意。&lt;/p&gt;
+&lt;h2 id=&#34;ucb-data100&#34;&gt;UCB Data100
+&lt;/h2&gt;&lt;p&gt;课程网址：&lt;a class=&#34;link&#34; href=&#34;https://ds100.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Data100&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;UCB数据科学课程，内容包括数据处理、数据可视化、特征处理、传统机器学习方法等。也会讲授Pandas, Numpy, Matplotlib 等数据科学常用工具包。如果你对数据科学感兴趣的话，真心推荐这门课程！&lt;/p&gt;
+&lt;p&gt;课程有video但都是讲解PPT的内容，PPT做的很好，我是直接看PPT自学的！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://aphia-xianyu.github.io/p/%E7%BD%91%E8%AF%BE%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/pasted%20image%200.png&#34;
+	width=&#34;1206&#34;
+	height=&#34;898&#34;
+	srcset=&#34;https://aphia-xianyu.github.io/p/%E7%BD%91%E8%AF%BE%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/pasted%20image%200_hu284756326875208032.png 480w, https://aphia-xianyu.github.io/p/%E7%BD%91%E8%AF%BE%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/pasted%20image%200_hu555371443707929533.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Data Science Lifecycle&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;134&#34;
+		data-flex-basis=&#34;322px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;这门课是用python语言，lab和homework都是在Jupyter Notebook上实现的，但是网站上lab和homework都需要UCB的学生账号，github上有人备份了&lt;a class=&#34;link&#34; href=&#34;https://github.com/DS-100&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;作业代码&lt;/a&gt;。同时，为了实现作业内置的评分系统，你需要安装otter包和在每份lab/hw的test文件夹里面评分代码的前面加上&lt;code&gt;OK_FORMAT = True&lt;/code&gt;（每份都要）。&lt;/p&gt;
+&lt;p&gt;lab和homework质量非常高！&lt;/p&gt;
 </description>
         </item>
         
