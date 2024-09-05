@@ -6,7 +6,15 @@
         <description>Recent content in Categories on XianYu</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Sat, 24 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://aphia-xianyu.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 30 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://aphia-xianyu.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Movies</title>
+        <link>https://aphia-xianyu.github.io/categories/movies/</link>
+        <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://aphia-xianyu.github.io/categories/movies/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Study</title>
         <link>https://aphia-xianyu.github.io/categories/study/</link>
         <pubDate>Sat, 24 Aug 2024 00:00:00 +0000</pubDate>
