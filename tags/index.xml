@@ -1,25 +1,73 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Tags on XianYu</title>
+        <title>Tags on Deep Coma</title>
         <link>https://aphia-xianyu.github.io/tags/</link>
-        <description>Recent content in Tags on XianYu</description>
+        <description>Recent content in Tags on Deep Coma</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Sat, 03 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://aphia-xianyu.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Introduction</title>
-        <link>https://aphia-xianyu.github.io/tags/introduction/</link>
-        <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+        <lastBuildDate>Sat, 21 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://aphia-xianyu.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Daily Life</title>
+        <link>https://aphia-xianyu.github.io/tags/daily-life/</link>
+        <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://aphia-xianyu.github.io/tags/introduction/</guid>
+        <guid>https://aphia-xianyu.github.io/tags/daily-life/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>玩</title>
+        <link>https://aphia-xianyu.github.io/tags/%E7%8E%A9/</link>
+        <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://aphia-xianyu.github.io/tags/%E7%8E%A9/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>随笔</title>
+        <link>https://aphia-xianyu.github.io/tags/%E9%9A%8F%E7%AC%94/</link>
+        <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://aphia-xianyu.github.io/tags/%E9%9A%8F%E7%AC%94/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>影评</title>
+        <link>https://aphia-xianyu.github.io/tags/%E5%BD%B1%E8%AF%84/</link>
+        <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://aphia-xianyu.github.io/tags/%E5%BD%B1%E8%AF%84/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>网课</title>
+        <link>https://aphia-xianyu.github.io/tags/%E7%BD%91%E8%AF%BE/</link>
+        <pubDate>Sat, 24 Aug 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://aphia-xianyu.github.io/tags/%E7%BD%91%E8%AF%BE/</guid>
         <description></description>
         </item>
         <item>
         <title>学习</title>
         <link>https://aphia-xianyu.github.io/tags/%E5%AD%A6%E4%B9%A0/</link>
-        <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 24 Aug 2024 00:00:00 +0000</pubDate>
         
         <guid>https://aphia-xianyu.github.io/tags/%E5%AD%A6%E4%B9%A0/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>旅游</title>
+        <link>https://aphia-xianyu.github.io/tags/%E6%97%85%E6%B8%B8/</link>
+        <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://aphia-xianyu.github.io/tags/%E6%97%85%E6%B8%B8/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Introduction</title>
+        <link>https://aphia-xianyu.github.io/tags/introduction/</link>
+        <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://aphia-xianyu.github.io/tags/introduction/</guid>
         <description></description>
         </item>
         <item>
@@ -33,23 +81,15 @@
         <item>
         <title>文字</title>
         <link>https://aphia-xianyu.github.io/tags/%E6%96%87%E5%AD%97/</link>
-        <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
         
         <guid>https://aphia-xianyu.github.io/tags/%E6%96%87%E5%AD%97/</guid>
         <description></description>
         </item>
         <item>
-        <title>小说</title>
-        <link>https://aphia-xianyu.github.io/tags/%E5%B0%8F%E8%AF%B4/</link>
-        <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://aphia-xianyu.github.io/tags/%E5%B0%8F%E8%AF%B4/</guid>
-        <description></description>
-        </item>
-        <item>
         <title>杂文</title>
         <link>https://aphia-xianyu.github.io/tags/%E6%9D%82%E6%96%87/</link>
-        <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
         
         <guid>https://aphia-xianyu.github.io/tags/%E6%9D%82%E6%96%87/</guid>
         <description></description>

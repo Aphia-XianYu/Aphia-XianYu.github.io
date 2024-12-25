@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>About Me on XianYu</title>
+        <title>About Me on Deep Coma</title>
         <link>https://aphia-xianyu.github.io/categories/about-me/</link>
-        <description>Recent content in About Me on XianYu</description>
+        <description>Recent content in About Me on Deep Coma</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <lastBuildDate>Sat, 03 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://aphia-xianyu.github.io/categories/about-me/index.xml" rel="self" type="application/rss+xml" /><item>
@@ -12,11 +12,13 @@
         <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
         
         <guid>https://aphia-xianyu.github.io/p/about-me/</guid>
-        <description>&lt;img src="https://aphia-xianyu.github.io/p/about-me/cover.jpg" alt="Featured image of post 关于我" /&gt;&lt;blockquote&gt;
-&lt;p&gt;欢迎来到我的博客&lt;/p&gt;
-&lt;/blockquote&gt;
+        <description>&lt;img src="https://aphia-xianyu.github.io/p/about-me/cover.jpg" alt="Featured image of post 关于我" /&gt;&lt;p&gt;&lt;font size =5&gt;🎉欢迎来到我的博客&lt;/font&gt;&lt;/p&gt;
 &lt;h2 id=&#34;-关于本站&#34;&gt;🏠 关于本站
-&lt;/h2&gt;&lt;p&gt;这是我杂七杂八的收藏，能丢的不能丢的都会放在这里。&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;遇见的东西的太多了，当没有办法全部封存于脑中的时，只能无可奈何的遗忘一部分东西，可是有些东西却舍不得忘记，于是就想着把他们记下，就像一个存贮遗物的盒子，埋葬在时间的长河里。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我们至今心怀憧憬，勤勤恳恳如同园丁培植土壤、维护园艺，依照想象整饬着这颗正显得越来越小的星球，梦想复刻黄金时代的美好花园。&lt;/p&gt;
+&lt;p&gt;——2023年国美毕业展&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;希望能成为一个安放奇思妙想、记录悲欢离合的理想花园。&lt;/p&gt;
 &lt;p&gt;配置方案：&lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Hugo&lt;/a&gt;+Github Pages&lt;/p&gt;
@@ -30,8 +32,8 @@
 &lt;h2 id=&#34;-关于我&#34;&gt;👨‍💻 关于我
 &lt;/h2&gt;&lt;p&gt;一个潦草的记录者。喜好在生活逼仄的角落蹉跎着自己的人生，游荡在无止境的荒野，用贫瘠的文字记录着世间的悲喜，小心翼翼地整饬自己逐渐狭小的理想花园。当下正在一场不愿醒来的梦里似睡非睡，游离于低落的浪潮之间。不吝于向旁人给予自己的温暖，但多数时候只是一个冷眼旁观者。渴望成为一个温柔的人，努力做一个谦逊的学习者。&lt;/p&gt;
 &lt;p&gt;想要活出肆意张扬的人生。&lt;/p&gt;
-&lt;p&gt;就读于浙江大学工程力学系，正在进行理论学习，当前研究内容为数据驱动控制运动系统，方向为从数据中识别出满足lagrange方程的动力学系统。&lt;/p&gt;
-&lt;p&gt;同时在学习数据科学、数值模拟、C++编程技术。&lt;/p&gt;
+&lt;p&gt;就读于浙江大学工程力学系，正在进行理论学习。&lt;/p&gt;
+&lt;p&gt;同时在学习数据科学、数值模拟、机器学习。&lt;/p&gt;
 &lt;h3 id=&#34;兴趣&#34;&gt;⛹兴趣
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;🎞 电影&lt;/li&gt;
